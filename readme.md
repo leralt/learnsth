@@ -2,4 +2,4 @@
 
 **this is a contents for my notes**
 
-- [`git command and build a git server`](https://gitee.com/bytepro/learnsth/blob/master/git.md)
+- [`git command and build a git server`](https://github.com/leralt/learnsth/blob/master/git.md)
